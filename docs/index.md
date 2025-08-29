@@ -82,7 +82,7 @@ Vaihtoehdoista HSL:n tarjoamissa verkoissa on käytössä ainoastaan nivelbussit
 
 ### Liityntäpysäköinnin mallinnus
 
-Liityntäpysäköinti on tuotu osaksi mallin kulkutapoja. Liityntäpysäköinti tapahtuu kahtena osamatkana, joista ensimmäinen osamatka tehdään autolla ja toinen joukkoliikenteellä. Liityntäpysäköintiä varten malliin on kuvattu seudun liityntäpysäköintilaitokset ja niiden kapasiteetit ja mahdollinen hinta. Liityntäpysäköintilaitokset on kuvattu sentroideina, joiden numeroavaruus on 35 000 - 35 999
+Liityntäpysäköinti on tuotu osaksi mallin kulkutapoja. Liityntäpysäköinti tapahtuu kahtena osamatkana, joista ensimmäinen osamatka tehdään autolla ja toinen joukkoliikenteellä. Liityntäpysäköintiä varten malliin on kuvattu seudun liityntäpysäköintilaitokset ja niiden kapasiteetit ja mahdollinen hinta. Liityntäpysäköintilaitokset on kuvattu sentroideina, joiden numeroavaruus on 35 000 - 35 999.
 
 
 ### Pyöräilyn mallinnus
@@ -118,17 +118,17 @@ Mallin käytettävyyttä on pyritty parantamaan selkeyttämällä virhetilanteid
 ### Mallin oletuksia, perusteluita ja rajoituksia
 
 Oletuksena yksilöiden hyödyn maksimointi:
-* Malli olettaa, että ihmiset ovat tietoisia kaikista vaihtoehdoista ja niiden hyödyistä ja haitoista
-* Malli tekee ainoastaan ihmisten oman hyödyn maksimoivia valintoja
-* Todellisuudessa ihmisten päätöksenteko ei ole näin suoraviivaista ja rationaalista, mutta hyötymaksimointi on mallintamisessa yleisesti käytetty oletus
+* Malli olettaa, että ihmiset ovat tietoisia kaikista vaihtoehdoista ja niiden hyödyistä ja haitoista.
+* Malli tekee ainoastaan ihmisten oman hyödyn maksimoivia valintoja.
+* Todellisuudessa ihmisten päätöksenteko ei ole näin suoraviivaista ja rationaalista, mutta hyötymaksimointi on mallintamisessa yleisesti käytetty oletus.
 
 Malli perustuu nykytilan havaintoaineiston valintoihin:
-* Oletetaan, että tulevaiuusskenaarioissa ihmiset tekevät valintansa samoilla perusteilla kuin havaintoaineistossa eli nykytilassa
-* Ennusteita ei voida tehdä asenteiden muutoksista (jos matka-aikaa, kustannuksia ym. arvostetaan eri tavalla kuin nykyisin)
+* Oletetaan, että tulevaisuusskenaarioissa ihmiset tekevät valintansa samoilla perusteilla kuin havaintoaineistossa eli nykytilassa.
+* Ennusteita ei voida tehdä asenteiden muutoksista (jos matka-aikaa, kustannuksia ym. arvostetaan eri tavalla kuin nykyisin).
 * Radikaaleja muutoksia toimintaympäristössä on haastava ennustaa ja siten mallintaa. Esimerkiksi koronaviruspandemia ja siitä seurannut etätyön lisääntyminen vaikuttaa pysyvästi mallin tuloksiin, mutta sitä ei ole voinut kuvata todenmukaisesti mallilla, joka oli estimoitu pandemiaa edeltävällä liikkumistutkimusaineistolla.
 
 Mallin matemaattinen pohja perustuu diskreetteihin valintamalleihin:
-* Mallijärjestelmä rakentuu useista eri osamalleista, joissa kuvataan logit-malleilla todennäköisyyttä, että päätöksentekijä valitsee tietyn vaihtoehdon (esim. kulkutapa)
+* Mallijärjestelmä rakentuu useista eri osamalleista, joissa kuvataan logit-malleilla todennäköisyyttä, että päätöksentekijä valitsee tietyn vaihtoehdon (esim. kulkutapa).
 * Teoriapohjaksi ks. esim. Kenneth Trainin e-kirja "[Discrete Choice Methods with Simulation](https://eml.berkeley.edu/books/choice2.html)" luku 2 ("Properties of Discrete Choice Models") s. 11-23.
 
 Tyypillisesti liikennemallit jakautuvat neljään osaan, jotka on kytketty toisiinsa:

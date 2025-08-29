@@ -52,7 +52,7 @@ Laajempia muutoksia tehdään MAL-suunnittelun yhteydessä n. neljän vuoden vä
 * MAL-suunnitelman pitkän aikavälin tavoiteskenaario
 * MAL-suunnitelman mukaiset välivuosiskenaariot (5 vuoden välein)
 
-Aineistojen sisältöjä on kuvattu tarkemmin aineiston jakokansiossa, johon saat käyttöoikeuden täyttämällä hakemuslomakkeen EXT-Helmet -Teams-ryhmässä.
+Aineistojen sisältöjä on kuvattu tarkemmin aineiston jakokansiossa, johon saat käyttöoikeuden täyttämällä hakemuslomakkeen EXT-helmet-Teams-ryhmässä.
 Kullekin vuodelle on oma alikansionsa ja niistä löytyy readme-tiedostot, joissa on selostettu yleiskuvaus aineistosta.
 
 Ilmoitathan Merville, mikäli havaitset tarjontakuvauksissa puutteita tai korjaustarpeita.
@@ -94,7 +94,7 @@ Pysäköintinormit vaikuttavat vain uusien asukkaiden autonomistukseen.
 * **pnr** = liityntäpysäköintilaitosten kapasiteetti ja 12 tunnin hinta
 * **prk** = kunkin ennustealueen työpaikan ja asiointimatkojen pysäköintikustannukset
 * **tco** = joukkoliikenteen kuukausikustannukset eri vyöhykkeillä
-* **trk** = rekkaliikenteen lähtötiedot: yhdistelmäajoneuvoilta kielletyt ennustealueet ja jätteenkäsittelylaitosten ennustealueet
+* **trk** = raskaan liikenteen lähtötiedot: yhdistelmäajoneuvoilta kielletyt ennustealueet ja jätteenkäsittelylaitosten ennustealueet
 * **wrk** = kunkin ennustealueen kokonaistyöpaikkamäärä sekä eri alojen työpaikkojen osuudet (palvelut, kaupat, logistiikka, teollisuus)
 
 ### Lähtödata

@@ -52,11 +52,11 @@ Lisää tietoja `dev-config.json`-tiedoston asetuksista löytyy
 
 ### Malliajon määrittely
 
-Jokaista ajettavaa HELMET-skenaariota kohden on tehtävä seuraavat määrittelyt:
+Käyttöliittymässä on tehtävä seuraavat määrittelyt jokaista ajettavaa HELMET-skenaariota kohden:
 
 1.	Skenaarion tai ajon nimi
     - *Skenaario* ei tässä viittaa EMME-skenaarioon, vaan tässä annetaan nimi verkkokuvaus- ja maankäyttötietoyhdistelmälle joka menee yhteen malliajoon.
-2.	EMMEn project-tiedosto (.emp)
+2.	EMMEn project-tiedosto (`.emp`)
 3.	EMME-skenaarion numero. 
    Asetuksista riippuen sijoittelutulokset tallennetaan tähän skenaarioon tai erikseen seuraavaan neljään skenarioon (vrk, aht, pt, iht).
 4.	Kansio, jossa ovat syöttötiedot
@@ -84,7 +84,7 @@ Jokaista ajettavaa HELMET-skenaariota kohden on tehtävä seuraavat määrittely
 
 ### Hyöty-kustannusanalyysin (hankearvioinnin) määrittely
 
-H/K-analyysillä voidaan verrata ajettujen skenaarioiden hyötyjä ja kustannuksia. Tulokset tulostuvat excel-tiedostoon tuloskansiossa. Analyysia varten on määriteltävä:
+H/K-analyysillä voidaan verrata ajettujen skenaarioiden hyötyjä ja kustannuksia. Tulokset tulostuvat Excel-tiedostoon tuloskansiossa. Analyysia varten on määriteltävä:
 
 1. Vertailuvaihtoehdon (ve0) tuloskansio (`Tulosten tallennuspolku\Skenaarion nimi`)
 2. Hankevaihtoehdon (ve1) tuloskansio
