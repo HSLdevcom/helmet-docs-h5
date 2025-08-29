@@ -129,8 +129,7 @@ Malli perustuu nykytilan havaintoaineiston valintoihin:
 
 Mallin matemaattinen pohja perustuu diskreetteihin valintamalleihin:
 * Mallijärjestelmä rakentuu useista eri osamalleista, joissa kuvataan logit-malleilla todennäköisyyttä, että päätöksentekijä valitsee tietyn vaihtoehdon (esim. kulkutapa)
-* Teoriapohjaksi ks. esim. Kenneth Trainin e-kirja Discrete Choice Methods with Simulation, ensimmäinen osa luvusta 2 (Properties of Discrete Choice Models), s. 11-23: 
-(https://eml.berkeley.edu/books/choice2.html))
+* Teoriapohjaksi ks. esim. Kenneth Trainin e-kirja "[Discrete Choice Methods with Simulation](https://eml.berkeley.edu/books/choice2.html)" luku 2 ("Properties of Discrete Choice Models") s. 11-23.
 
 Tyypillisesti liikennemallit jakautuvat neljään osaan, jotka on kytketty toisiinsa:
 * _Matkatuotos_ eli matkojen määrät lähtö- ja määräpaikoittain

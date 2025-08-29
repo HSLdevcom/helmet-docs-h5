@@ -11,9 +11,8 @@ HSL ylläpitää lähtötietoaineistoja MAL-suunnittelun ja joukkoliikennesuunni
 Aineistojen nimissä on yleensä jokin vuosiskenaario, mutta ennusteet eivät koskaan kuvaa tarkkaa vuotta, vaan tiettyä hankkeiden,
 maankäyttöjen ja muiden lähtötietojen yhdistelmää.
 
-Tässä on kuvattu yleisesti HSL:n ylläpitämiä lähtötietoaineistoja.
-Ohjeita aineistojen lataamiseen ja käyttöön löydät [täältä](mallitoiden_yleisohje.md) ja tarkemman kuvauksen
-aineistojen rakenteesta [täältä](mallin_lahtotietotiedostot.md).
+Tässä on kuvattu yleisesti HSL:n ylläpitämiä lähtötietoaineistoja ja niiden rakennetta.
+Ohjeita aineistojen lataamiseen ja käyttöön löydät "[Mallijärjestelmän käyttö](mallitoiden_yleisohje.md)"-sivulta.
 
 ## Ennusteskenaarioiden syöttötiedot (maankäyttö, kustannukset ym)
 
@@ -63,7 +62,7 @@ Verkkokuvausperiaatteita on kuvattu tarkemmin raportissa Helsingin seudun liiken
 joka on saatavilla mallin käyttäjien EXT-Helmet -Teams-ryhmässä.
 Noudatathan näitä periaatteita verkonkuvauksia koodatessa, jotta varmistutaan tulosten oikeellisuudesta ja aineistojen yhteiskäyttöisyydestä. 
 
-Lisätietoja mallin käyttämisestä [täällä](mallitoiden_yleisohje.md).
+Lisätietoja mallin käyttämisestä "[Mallijärjestelmän käyttö](mallitoiden_yleisohje.md)"-sivulla.
 Taustatietoa verkkokuvausten muodostamisesta ja historiasta löydät raportista [Helsingin seudun työssäkäyntialueen liikenne-ennustejärjestelmän tarjontamallit 2017](https://staticfiles.hsl.fi/globalassets/julkaisuarkisto/2019/helsingin-seudun-tyossakayntialueen-liikenne-ennustejarjestelman-tarjontamallit-6-2019.pdf).
 
 
@@ -123,7 +122,7 @@ Kansio sisältää kullekin tarkasteluvuodelle/skenaariolle alikansion, jossa on
 * **extra_nodes_xxx.txt** = solmun korkeustaso
 * **extra_transit_lines_xxx.txt** = joukkoliikennelinjojen vuorovälit eri aikajaksoilla (aht, pt, iht)
 
-Skenaariot voi muodostaa kootusti Modellerissa, tarkempi kuvaus [täällä](sijopankki.md). 
+Skenaariot voi muodostaa kootusti Modellerissa "[Sijoittelupankin perustaminen](sijopankki.md)"-sivun ohjeiden mukaan.
 Moduuli ajaa myös sisään seuraavat kaikille skenaarioille yhteiset tiedot:
 
 * **modes_xxx.txt** auto- ja pyöräverkon kulkutavat
@@ -133,11 +132,8 @@ Moduuli ajaa myös sisään seuraavat kaikille skenaarioille yhteiset tiedot:
 
 Lähtötietoja voi muokata joko suoraan lähtötietotiedostoihin tai Emme-ohjelmiston (Modeller, Network Editor, Prompt) kautta.
 
-Verkkokuvausperiaatteita on kuvattu tarkemmin [täällä](emme_verkko.md).
+Verkkokuvausperiaatteita on kuvattu tarkemmin "[EMME-verkon kuvaus](emme_verkko.md)" -sivulla.
 Noudatathan näitä periaatteita verkonkuvauksia koodatessa, jotta varmistutaan tulosten oikeellisuudesta ja aineistojen yhteiskäyttöisyydestä.
-
-Lisätietoja mallin käyttämisestä [täällä](mallitoiden_yleisohje.md).
-Taustatietoa verkkokuvausten muodostamisesta ja historiasta löydät raportista [Helsingin seudun työssäkäyntialueen  liikenne-ennustejärjestelmän tarjontamallit 2017](https://staticfiles.hsl.fi/globalassets/julkaisuarkisto/2019/helsingin-seudun-tyossakayntialueen-liikenne-ennustejarjestelman-tarjontamallit-6-2019.pdf).
 
 ## Lähtötietojen vaikutus ennustemallin eri osiin
 
