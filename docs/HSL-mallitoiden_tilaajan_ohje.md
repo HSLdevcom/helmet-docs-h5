@@ -13,7 +13,7 @@ Yleistietoa HSL:n Helmet-mallista, sen lähtötiedoista, epävarmuuksista ja tul
 
 ## Mallitöiden tilaaminen
 
-Työohjelmaa laadittaessa ole yhteydessä HSL:n malliasiantuntijoihin (Johanna Piipponen, Mervi Vatanen, Petr Hajduk, Santeri Hiitola).
+Työohjelmaa laadittaessa ole yhteydessä HSL:n liikennemalliasiantuntijoihin.
 Heiltä saat apua mm. lähtötietojen ja skenaarioiden määrittelyyn sekä dokumentointiin.
 Pääsääntöisesti töiden lähtötietoina käytetään HSL:n virallisia aineistoja, joita projekteissa sitten muokataan.
 Pohja-aineiston valinnassa kannattaa ottaa kyseisen projektin tarpeiden lisäksi huomioon myös mahdolliset tarpeet käyttää projektin tuloksia ja koodauksia jatkossa.

@@ -16,8 +16,6 @@ Ohjeita aineistojen lataamiseen ja käyttöön löydät "[Mallijärjestelmän k�
 
 ## Ennusteskenaarioiden syöttötiedot (maankäyttö, kustannukset ym)
 
-HSL:n virallisia kysyntämallin lähtötietoja ylläpitää Santeri Hiitola. 
-
 **Lähtötietoja tuotetaan MAL-suunnittelun yhteydessä n. neljän vuoden välein seuraaville skenaarioille:**
 * Nykytilan kuvaus
 * MAL-suunnitelman tavoitevuoden skenaario
@@ -31,8 +29,6 @@ ja tarkempia tietoja löytyy kunkin tiedoston sisältä kommmentteina.
 Kysyntämalleja on kuvattu tarkemmin raportissa [Helsingin seudun työssäkäyntialueen liikenne-ennustejärjestelmän kysyntämallit 2020](https://staticfiles.hsl.fi/globalassets/julkaisuarkisto/2020/6_2020_helsingin_seudun_tyossakayntialueen_liikenne-ennustejarjestelman_kysyntamallit.pdf).
 
 ## Verkkokuvaukset
-
-HSL:n virallisia tarjontamallin lähtötietoja ylläpitää Mervi Vatanen.
 
 Vuosittain päivitetään tuore nykytilan kuvaus sekä mahdolliset muutokset tulevien vuosien kuvauksiin HSL:n ja kuntien tuottamiin suunnitelmiin perustuen.
 Muutostyö käynnistyy tammikuussa Liikennöintisuunnitelman hyväksymisen jälkeen, ja viimeistellään kesällä, kun kaikki syksyn muutokset ovat varmistuneet.
@@ -55,8 +51,8 @@ Laajempia muutoksia tehdään MAL-suunnittelun yhteydessä n. neljän vuoden vä
 Aineistojen sisältöjä on kuvattu tarkemmin aineiston jakokansiossa, johon saat käyttöoikeuden täyttämällä hakemuslomakkeen EXT-helmet-Teams-ryhmässä.
 Kullekin vuodelle on oma alikansionsa ja niistä löytyy readme-tiedostot, joissa on selostettu yleiskuvaus aineistosta.
 
-Ilmoitathan Merville, mikäli havaitset tarjontakuvauksissa puutteita tai korjaustarpeita.
-Mervi ylläpitää korjaustarvelistaa sekä tarjontamallin lähtötietojen tarkempia kuvauksia.
+Ilmoitathan, mikäli havaitset tarjontakuvauksissa puutteita tai korjaustarpeita.
+HSL ylläpitää korjaustarvelistaa sekä tarjontamallin lähtötietojen tarkempia kuvauksia.
 
 Verkkokuvausperiaatteita on kuvattu tarkemmin raportissa Helsingin seudun liikenteen Emme-verkon kuvaus,
 joka on saatavilla mallin käyttäjien EXT-Helmet -Teams-ryhmässä.
