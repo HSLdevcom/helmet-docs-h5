@@ -121,7 +121,7 @@ Moduuli ajaa myös sisään seuraavat kaikille skenaarioille yhteiset tiedot:
 
 ## Lähtötietojen muokkaaminen
 
-Lähtötietoja voi muokata joko suoraan lähtötietotiedostoihin tai Emme-ohjelmiston (Modeller, Network Editor, Prompt) kautta.
+Lähtötietoja voi muokata joko suoraan lähtötietotiedostoihin tai EMME-ohjelmiston (Modeller, Network Editor, Prompt) kautta.
 
 Verkkokuvausperiaatteita on kuvattu tarkemmin "[EMME-verkon kuvaus](emme_verkko.md)" -sivulla.
 Noudatathan näitä periaatteita verkonkuvauksia koodatessa, jotta varmistutaan tulosten oikeellisuudesta ja aineistojen yhteiskäyttöisyydestä.
