@@ -15,7 +15,7 @@ Huom! Jos ajat samassa Emme-pankissa useita Helmet-skenaarioita, tarkat matriisi
 jos config-tiedostoon on määritelty matriiseille omat tallennuspaikat (ks. [Mallijärjestelmän käyttö](mallitoiden_yleisohje.html)).
 
 Lisää tietoja kysyntämallien toiminnallisuuksista ja niiden tulosten merkityksestä saat
-[malliraportista](https://staticfiles.hsl.fi/globalassets/julkaisuarkisto/2020/6_2020_helsingin_seudun_tyossakayntialueen_liikenne-ennustejarjestelman_kysyntamallit.pdf).
+(KORJAA) [malliraportista](https://staticfiles.hsl.fi/globalassets/julkaisuarkisto/2020/6_2020_helsingin_seudun_tyossakayntialueen_liikenne-ennustejarjestelman_kysyntamallit.pdf).
 
 ## Tulokset verrattuna Helmet 4.1:een
 

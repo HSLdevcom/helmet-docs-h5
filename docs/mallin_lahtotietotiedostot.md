@@ -26,8 +26,6 @@ Aineistojen sisältöjä on kuvattu tarkemmin aineiston jakokansiossa, johon saa
 Tiedostopolun juuren on dokumentit sisältävät aineistojen yleiskuvauksen,
 ja tarkempia tietoja löytyy kunkin tiedoston sisältä kommmentteina.
 
-Kysyntämalleja on kuvattu tarkemmin raportissa [Helsingin seudun työssäkäyntialueen liikenne-ennustejärjestelmän kysyntämallit 2020](https://staticfiles.hsl.fi/globalassets/julkaisuarkisto/2020/6_2020_helsingin_seudun_tyossakayntialueen_liikenne-ennustejarjestelman_kysyntamallit.pdf).
-
 ## Verkkokuvaukset
 
 Vuosittain päivitetään tuore nykytilan kuvaus sekä mahdolliset muutokset tulevien vuosien kuvauksiin HSL:n ja kuntien tuottamiin suunnitelmiin perustuen.
@@ -54,8 +52,7 @@ Kullekin vuodelle on oma alikansionsa ja niistä löytyy readme-tiedostot, joiss
 Ilmoitathan, mikäli havaitset tarjontakuvauksissa puutteita tai korjaustarpeita.
 HSL ylläpitää korjaustarvelistaa sekä tarjontamallin lähtötietojen tarkempia kuvauksia.
 
-Verkkokuvausperiaatteita on kuvattu tarkemmin raportissa Helsingin seudun liikenteen Emme-verkon kuvaus,
-joka on saatavilla mallin käyttäjien EXT-Helmet -Teams-ryhmässä.
+Verkkokuvausperiaatteita on kuvattu tarkemmin sivulla "[EMME-verkon kuvaus](https://hsldevcom.github.io/helmet-docs-h5/emme_verkko.html)".
 Noudatathan näitä periaatteita verkonkuvauksia koodatessa, jotta varmistutaan tulosten oikeellisuudesta ja aineistojen yhteiskäyttöisyydestä. 
 
 Lisätietoja mallin käyttämisestä "[Mallijärjestelmän käyttö](mallitoiden_yleisohje.md)"-sivulla.
