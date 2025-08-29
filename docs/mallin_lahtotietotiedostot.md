@@ -24,8 +24,8 @@ HSL:n virallisia kysyntämallin lähtötietoja ylläpitää Santeri Hiitola.
 * MAL-suunnitelman pitkän aikavälin tavoiteskenaario
 * MAL-suunnitelman mukaiset välivuosiskenaariot (5 vuoden välein)
 
-Aineistojen sisältöjä on kuvattu tarkemmin aineiston jakokansiossa, johon saat käyttöoikeuden täyttämällä hakemuslomakkeen EXT-Helmet -Teams-ryhmässä.
-Tiedostopolun juuressa on dokumentti (esim. MAL2019-ennusteet.docx), joka sisältää aineistojen yleiskuvauksen,
+Aineistojen sisältöjä on kuvattu tarkemmin aineiston jakokansiossa, johon saat käyttöoikeuden täyttämällä hakemuslomakkeen EXT-helmet-Teams-ryhmässä.
+Tiedostopolun juuren on dokumentit sisältävät aineistojen yleiskuvauksen,
 ja tarkempia tietoja löytyy kunkin tiedoston sisältä kommmentteina.
 
 Kysyntämalleja on kuvattu tarkemmin raportissa [Helsingin seudun työssäkäyntialueen liikenne-ennustejärjestelmän kysyntämallit 2020](https://staticfiles.hsl.fi/globalassets/julkaisuarkisto/2020/6_2020_helsingin_seudun_tyossakayntialueen_liikenne-ennustejarjestelman_kysyntamallit.pdf).
@@ -113,10 +113,8 @@ Kansio sisältää kullekin tarkasteluvuodelle/skenaariolle alikansion, jossa on
 
 **Tiedostot**
 
-* **base_network_xxx.txt** = liikenneverkon solmut ja linkit sekä niiden attribuutit (HUOM: Helmet 5 käyttää myös solmun label-attribuuttia, jossa lippuvyöhykkeen kirjain)
+* **base_network_xxx.txt** = liikenneverkon solmut ja linkit sekä niiden attribuutit
 * **transit_lines_xxx.txt** = joukkoliikennelinjaston kuvaus: mm. linjatunnus, kulkumuoto, ajoneuvotyyppi (vehicle), reitin otsikko, reitin käyttämät solmut
-  (HUOM: pysähtymiset lasketaan solmujen tietojen perusteella ennusteprosessin aikana ja eri aikajaksojen vuorovälit ajetaan sisään
-  erillisestä tiedostosta `extra_transit_lines_xxx.txt`)
 * **turns_xxx.txt** = kääntymiskiellot eri solmujen välillä
 * **extra_links_xxx.txt** = linkkikohtainen tienkäyttömaksu eri aikajaksoilla (aht, pt, iht), pyörätieluokka eri linkeillä, linkin kaltevuus
 * **extra_nodes_xxx.txt** = solmun korkeustaso
