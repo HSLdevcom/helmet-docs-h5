@@ -29,8 +29,8 @@ ja tarkempia tietoja löytyy kunkin tiedoston sisältä kommmentteina.
 ## Verkkokuvaukset
 
 Vuosittain päivitetään tuore nykytilan kuvaus sekä mahdolliset muutokset tulevien vuosien kuvauksiin HSL:n ja kuntien tuottamiin suunnitelmiin perustuen.
-Muutostyö käynnistyy tammikuussa Liikennöintisuunnitelman hyväksymisen jälkeen, ja viimeistellään kesällä, kun kaikki syksyn muutokset ovat varmistuneet.
 Päivitetyt versiot julkaistaan syksyisin. Verkkojen vuosipäivityksiä laaditaan vuosittain kuvaamaan kunkin syksyn liikennetilannetta HSL-liikenteessä. 
+Muutostyö käynnistyy tammikuussa HSL:n Liikennöintisuunnitelman hyväksymisen jälkeen, ja viimeistellään kesällä, kun kaikki syksyn muutokset ovat varmistuneet.
 Tässä yhteydessä samat muutokset kuvataan myös MAL-verkkojen päivitettäviin versioihin sekä välivuosien verkoille.
 Lisäksi tulevaisuuden verkkoihin viedään tiedot esim. valmistuneiden linjastosuunnitelmien tuomista muutoksista. 
 
