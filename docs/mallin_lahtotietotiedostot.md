@@ -22,7 +22,7 @@ HSL:n virallisia kysyntämallin lähtötietoja ylläpitää Santeri Hiitola.
 * Nykytilan kuvaus
 * MAL-suunnitelman tavoitevuoden skenaario
 * MAL-suunnitelman pitkän aikavälin tavoiteskenaario
-* MAL-suunnitelman mukaiset välivuosiskenaariot (5 vuoden välein)
+* Välivuosiskenaario
 
 Aineistojen sisältöjä on kuvattu tarkemmin aineiston jakokansiossa, johon saat käyttöoikeuden täyttämällä hakemuslomakkeen EXT-helmet-Teams-ryhmässä.
 Tiedostopolun juuren on dokumentit sisältävät aineistojen yleiskuvauksen,
@@ -35,8 +35,8 @@ Kysyntämalleja on kuvattu tarkemmin raportissa [Helsingin seudun työssäkäynt
 HSL:n virallisia tarjontamallin lähtötietoja ylläpitää Mervi Vatanen.
 
 Vuosittain päivitetään tuore nykytilan kuvaus sekä mahdolliset muutokset tulevien vuosien kuvauksiin HSL:n ja kuntien tuottamiin suunnitelmiin perustuen.
-Päivitetyt versiot julkaistaan aina alkusyksystä. Verkkojen vuosipäivityksiä laaditaan vuosittain kuvaamaan kunkin syksyn liikennetilannetta HSL-liikenteessä. 
 Muutostyö käynnistyy tammikuussa Liikennöintisuunnitelman hyväksymisen jälkeen, ja viimeistellään kesällä, kun kaikki syksyn muutokset ovat varmistuneet.
+Päivitetyt versiot julkaistaan syksyisin. Verkkojen vuosipäivityksiä laaditaan vuosittain kuvaamaan kunkin syksyn liikennetilannetta HSL-liikenteessä. 
 Tässä yhteydessä samat muutokset kuvataan myös MAL-verkkojen päivitettäviin versioihin sekä välivuosien verkoille.
 Lisäksi tulevaisuuden verkkoihin viedään tiedot esim. valmistuneiden linjastosuunnitelmien tuomista muutoksista. 
 
@@ -50,7 +50,7 @@ Laajempia muutoksia tehdään MAL-suunnittelun yhteydessä n. neljän vuoden vä
 * Nykytilan kuvaus
 * MAL-suunnitelman tavoitevuoden skenaario
 * MAL-suunnitelman pitkän aikavälin tavoiteskenaario
-* MAL-suunnitelman mukaiset välivuosiskenaariot (5 vuoden välein)
+* Välivuosiskenaario
 
 Aineistojen sisältöjä on kuvattu tarkemmin aineiston jakokansiossa, johon saat käyttöoikeuden täyttämällä hakemuslomakkeen EXT-helmet-Teams-ryhmässä.
 Kullekin vuodelle on oma alikansionsa ja niistä löytyy readme-tiedostot, joissa on selostettu yleiskuvaus aineistosta.
