@@ -58,17 +58,17 @@ Dokumentoi muistioon myös muutosten perustelut.
 
 Jos työn yhteydessä tehdään muutoksia mallin käyttämiin skripteihin, toimita muokatut skriptit Githubiin.
 
-### Emme-pankit
+### EMME-pankit
 
-Työn päättyessä HSL:lle palautetaan työn Emme-pankki, jossa on kaikki tarkastellut skenaariot sijoiteltuina. Lisäksi palautetaan kaikkien skenaarioiden (osa)matriisit.
+Työn päättyessä HSL:lle palautetaan työn EMME-pankki, jossa on kaikki tarkastellut skenaariot sijoiteltuina. Lisäksi palautetaan kaikkien skenaarioiden (osa)matriisit.
 
-### Emmen worksheetit
+### EMMEn worksheetit
 
-Tallenna luovutettavaan aineistoon tuloksissa esiteltävistä raporttikuvista Emmen worksheetit sekä mahdolliset tunnuslukujen laskentakaavat,
+Tallenna luovutettavaan aineistoon tuloksissa esiteltävistä raporttikuvista EMMEn worksheetit sekä mahdolliset tunnuslukujen laskentakaavat,
 joiden avulla raportit ovat helposti toistettavissa.
 Kuvaa tunnuslukujen laskentakaavat projektin raportissa, tai ainakin malliteknisessä muistiossa.
 
-### Emmen ulkopuolisten analyysien dokumentointi
+### EMMEn ulkopuolisten analyysien dokumentointi
 
 Mikäli työn yhteydessä laaditaan lisätarkasteluja esim. paikkatieto-ohjelmalla, tulee myös näissä mahdollisesti käytetyt laskentakaavat
 dokumentoida mallitekniseen muistioon.
