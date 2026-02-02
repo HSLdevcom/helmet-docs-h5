@@ -50,19 +50,8 @@ HELMET 5 -mallissa on aiempaa enemmän sijoittelualueita Itä- ja Länsi-Uudella
 
 HSL-alueen ulkopuolinen joukkoliikenne on päivitetty vastaamaan vuoden 2023 tarjontaa GTFS-aineiston pohjalta. Joukkoliikenteen tarjonta sisältää nyt myös muiden kaupunkiseutujen seudullisen joukkoliikenteen.
 
-### Pysäköintiin kuluva aika osana autoliikenteen matka-aikaa
 
-HELMET 5 -malliversiossa pysäköintiin kuluva aika huomioidaan henkilöautomatkoilla erillisenä vastustekijänä. Mallissa jokaiselle sijoittelualueelle määritetään pysäköintiaika, joka mallintaa pysäköintipaikan löytymiseen ja pysäköintiin kuluvaa aikaa, ja joka riippuu alueen asukas- ja työpaikkatiheydestä. Pysäköintiaika huomioidaan vastustekijänä kulkutavanvalinnassa sekä suuntautumisessa. Pysäköintiin liittyvä lisävastus laskee henkilöauton houkuttelevuutta ja kulkutapaosuutta erityisesti keskusta-alueelle suuntautuvilla kiertomatkoilla ja vaikuttaa osaltaan myös matkojen suuntautumiseen.
-
-### Säteittäisväylien päiden kapasiteetin korjaus
-
-HELMET 5 -malliversiossa säteittäisväylien välityskykyä on pienennetty vastaamaan paremmin todellista liikennevalojen rajoittamaa verkon välityskykyä keskustaan päin suuntautuvalla liikenteellä. Korjattu kapasiteetti vastaa tarkemmin toteutunutta välityskykyä ja kasvattaa ruuhkatuntien matka-aikoja keskustaan.
-
-### Kantakaupungin linkkien vapaan nopeuden muutos
-
-HELMET 5 -malliversiossa Helsingin kantakaupungin alueella käytetyn linkkityypin 42 vapaan nopeuden arvoa on pienennetty vastaamaan paremmin todellisia matka-aikoja Helsingin keskusta-alueella. Muutoksen myötä keskustan katuverkolla tapahtuvien automatkojen matka-ajat kasvavat, jolla on selkeä vaikutus reitinvalintaan ja osaltaan myös kulkutavanvalintaan ja suuntautumiseen.
-
-### Joukkoliikenteen ruuhkautuvuus
+### Joukkoliikenteen sijoittelu
 
 HELMET 5 -malliversiossa ruuhkautuvan joukkoliikenteen sijoittelu on otettu käyttöön kaikilla malli-iteraatioilla. Tämä tarkoittaa, että joukkoliikenteen ruuhkautumisen vaikutukset otetaan huomioon koko mallinnusprosessin ajan, ei vain loppusijoitteluvaiheessa. Lisäksi ruuhkautumista kuvaavaa funktiota on tarkennettu siten, että se vastaa Väyläviraston määrittelemiä yksikköarvoja. Uuden ruuhkautumisfunktion mukainen koettu matka-aika kasvaa aiempaa maltillisemmin tilanteissa, joissa joukkoliikennevälineen kapasiteetti loppuu kesken.
 
@@ -76,6 +65,10 @@ Joukkoliikennevälineiden kapasiteetteja on tarkistettu ja uusia vaihtoehtoisia 
  * Pika-kaukobusseille on mahdollisuutena myös kaksikerroksinen bussi
 
 Vaihtoehdoista HSL:n tarjoamissa verkoissa on käytössä ainoastaan nivelbussit linjoilla 20, 30, 40, 560 ja 570, sekä kaksikerroksiset bussit OnniBus MEGA -linjoilla. Muut muutokset ovat käytettävissä harkinnanvaraisesti erilaisissa tarkasteluissa.
+
+### Kantakaupungin linkkien vapaan nopeuden muutos
+
+HELMET 5 -malliversiossa Helsingin kantakaupungin alueella käytetyn linkkityypin 42 vapaan nopeuden arvoa on pienennetty vastaamaan paremmin todellisia matka-aikoja Helsingin keskusta-alueella. Muutoksen myötä keskustan katuverkolla tapahtuvien automatkojen matka-ajat kasvavat, jolla on selkeä vaikutus reitinvalintaan ja osaltaan myös kulkutavanvalintaan ja suuntautumiseen.
 
 ### Liityntäpysäköinnin mallinnus
 
@@ -93,6 +86,14 @@ Pyöräilyn mallintamista on kehitetty HELMET 5 -versiossa aiemman HELMET 4 -ver
 * Pyöräilyn reitinvalintaan vaikuttavat myös maastonmuodot ja samalla väylällä kulkeva autoliikenne.
   * Linkeillä uusi extra-attribuutti @kaltevuus, joka tuotetaan automaatiolla.
   * Solmuilla uusi extra-attribuutti @korkeus, jota voidaan käyttää vaihtoehtona kaltevuudelle verkkoja koodatessa.
+  
+### Pysäköintiin kuluva aika osana autoliikenteen matka-aikaa
+
+HELMET 5 -malliversiossa pysäköintiin kuluva aika huomioidaan henkilöautomatkoilla erillisenä vastustekijänä. Mallissa jokaiselle sijoittelualueelle määritetään pysäköintiaika, joka mallintaa pysäköintipaikan löytymiseen ja pysäköintiin kuluvaa aikaa, ja joka riippuu alueen asukas- ja työpaikkatiheydestä. Pysäköintiaika huomioidaan vastustekijänä kulkutavanvalinnassa sekä suuntautumisessa. Pysäköintiin liittyvä lisävastus laskee henkilöauton houkuttelevuutta ja kulkutapaosuutta erityisesti keskusta-alueelle suuntautuvilla kiertomatkoilla ja vaikuttaa osaltaan myös matkojen suuntautumiseen.
+
+### Säteittäisväylien päiden kapasiteetin korjaus
+
+HELMET 5 -malliversiossa säteittäisväylien välityskykyä on pienennetty vastaamaan paremmin todellista liikennevalojen rajoittamaa verkon välityskykyä keskustaan päin suuntautuvalla liikenteellä. Korjattu kapasiteetti vastaa tarkemmin toteutunutta välityskykyä ja kasvattaa ruuhkatuntien matka-aikoja keskustaan.
 
 ### Käytettävyysparannukset
 
